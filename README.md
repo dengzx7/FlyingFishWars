@@ -1,5 +1,5 @@
 # Flying Fish Wars
-Computer Graphics Flying Fish Game Project
+Computer Graphics Project: Flying Fish Game
 
 基于Processing实现的飞鱼大战游戏。
 
